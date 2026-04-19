@@ -1,4 +1,4 @@
-# hey, i'm jovan 👋
+# Hello, i'm Jovan 👋
 
 16 year old developer from Belgrade, Serbia
 
