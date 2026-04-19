@@ -1,13 +1,15 @@
 # Hello there 👋
 
-I'm a 16 year old developer from Belgrade, Serbia
+I'm a junior developer that doesnt concern himself with limits. I've been studying programming since September 2024
+and i dont plan to stop.
 
 ## About me
 
 - 🌍 Living in **Belgrade, Serbia**
 - 🎓 16 years old
 - 🔭 FiveM developer, Software Engineer Student
-
+- 🌟 Learning new things every day
+  
 ## Tech info
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
