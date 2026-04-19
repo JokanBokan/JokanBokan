@@ -18,3 +18,5 @@ and i don't plan to stop.
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 📫 you can contact me at any time at **jocikanule561@email.com**
+
+*"If you give yourself 30 days to clean your house, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours" - Elon Musk*
