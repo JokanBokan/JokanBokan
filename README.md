@@ -1,22 +1,18 @@
-# Hello, i'm Jovan 👋
+# Hello there 👋
 
-16 year old developer from Belgrade, Serbia
-
-</div>
+I'm a 16 year old developer from Belgrade, Serbia
 
 ## about me
 
-- 🌍 Based in **Belgrade, Serbia**
+- 🌍 Living in **Belgrade, Serbia**
 - 🎓 16 years old
 - 🔭 FiveM developer, Software Engineer Student
 
-## tech stack
+## tech info
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
----
-
-📫 you can text me any time at **jocikanule561@email.com**
+📫 you can contact me at any time at **jocikanule561@email.com**
