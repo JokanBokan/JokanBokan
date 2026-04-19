@@ -1,5 +1,3 @@
-<div align="center">
-
 # hey, i'm jovan 👋
 
 16 year old developer from Belgrade, Serbia
