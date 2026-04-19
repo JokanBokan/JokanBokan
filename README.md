@@ -1,7 +1,7 @@
 # Hello there 👋
 
 I'm a junior developer that doesn't concern himself with limits. I've been studying programming since September 2024
-and i dont plan to stop.
+and i don't plan to stop.
 
 ## About me
 
