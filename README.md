@@ -4,15 +4,11 @@
 
 </div>
 
----
-
 ## about me
 
 - 🌍 Based in **Belgrade, Serbia**
 - 🎓 16 years old
 - 🔭 FiveM developer, Software Engineer Student
-
----
 
 ## tech stack
 
