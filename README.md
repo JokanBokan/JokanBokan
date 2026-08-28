@@ -1,17 +1,3 @@
-# Hello there 👋
-
-I'm a junior developer that doesn't concern himself with limits. I've been studying programming since September 2024
-and i don't plan to stop.
-
-## About me
-
-- 🌍 Living in **Belgrade, Serbia**
-- 🎓 16 years old
-- 🔭 FiveM developer, Software Engineer Student
-- 🌟 Learning new things every day
-  
-## Tech info
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -20,7 +6,7 @@ and i don't plan to stop.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-📫 you can contact me at any time at **jocikanule561@gmail.com**
+you can contact me at any time at **jocikanule561@gmail.com**
 
 ---
 
