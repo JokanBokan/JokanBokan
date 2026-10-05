@@ -15,5 +15,5 @@ Nothing is impossible, beat your fears, focus your mind and learn to fly
 - **Low-Level & Systems Programming** (C, C++, Memory Management, Multithreading)
 - **FiveM Game Server Development** (Lua, Native APIs, NUI)
 ---
-
+### Contact
 you can contact me at any time at **jocikanule561@gmail.com**
